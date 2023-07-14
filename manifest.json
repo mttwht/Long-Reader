@@ -1,0 +1,11 @@
+{
+    "manifest_version": 2,
+    "name": "Long Reader",
+    "version": "0.1",
+  
+    "description": "Manage Articles / Courses that won't be completed in a single session",
+    "homepage_url": "",
+    "icons": {
+      "48": "icons/reader-48.png"
+    }
+}
