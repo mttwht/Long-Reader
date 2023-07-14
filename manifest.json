@@ -1,11 +1,16 @@
 {
-    "manifest_version": 2,
-    "name": "Long Reader",
-    "version": "0.1",
-  
-    "description": "Manage Articles / Courses that won't be completed in a single session",
-    "homepage_url": "",
-    "icons": {
-      "48": "icons/reader-48.png"
-    }
+  "manifest_version": 2,
+  "name": "Long Reader",
+  "version": "0.1",
+
+  "description": "Manage Articles / Courses that won't be completed in a single session",
+  "homepage_url": "https://github.com/mttwht/Long-Reader",
+  "icons": {
+    "48": "icons/reader-48.png"
+  },
+
+  "browser_action": {
+    "default_icon": "icons/reader-32.png",
+    "default_title": "Long Reader"
+  }
 }
